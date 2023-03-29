@@ -18,9 +18,9 @@ environment:
 flutter:
   plugin:
     platforms:
-      android:
-        package: com.crazecoder.openfile
-        pluginClass: OpenFilePlugin
+      # android:
+      #   package: com.crazecoder.openfile
+      #   pluginClass: OpenFilePlugin
       ios:
         pluginClass: OpenFilePlugin
 
